@@ -1,1 +1,1 @@
-window.GMV_CONFIG = { proxyUrl: "https://scientist-ages-games-leeds.trycloudflare.com" };
+window.GMV_CONFIG = { proxyUrl: "https://grok-musik-video.onrender.com" };
